@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## &#x1f4c8; GitHub Stats
  <div align="center">
